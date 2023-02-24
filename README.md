@@ -4,7 +4,13 @@ Hi 👋 My name is Göksu Eldemir
 Software Engineer/Game Developer
 --------------------------------
 
-I'm a computer engineering student over at ITU and I'm really into game development. I love designing games that are immersive and engaging, and I'm always looking for new ways to improve my skills and learn more about the craft. I'm really passionate about programming and I'm always working to improve my understanding of algorithms and data structures. But what really sets me apart is my creativity and design skills. I love coming up with new ideas for game worlds and creating visually stunning environments that draw players in and keep them hooked. I work really well with others and love collaborating with other developers to bring our collective vision to life. I'm always pushing myself to be better and I'm committed to my craft, putting in countless hours to make sure every aspect of my games is polished and perfect. Overall, I am confident that my skills, passion, and dedication to game development will allow me to make a valuable contribution to the industry in the years to come. With a focus on innovation and a commitment to excellence, I am excited to continue exploring new avenues for creativity and growth in the field of game development.
+I'm a computer engineering student over at ITU and I'm really into game development. I love designing games that are immersive and engaging, and I'm always looking for new ways to improve my skills and learn more about the craft. 
+
+I'm really passionate about programming and I'm always working to improve my understanding of algorithms and data structures. But what really sets me apart is my creativity and design skills. I love coming up with new ideas for game worlds and creating visually stunning environments that draw players in and keep them hooked. 
+
+I work really well with others and love collaborating with other developers to bring our collective vision to life. I'm always pushing myself to be better and I'm committed to my craft, putting in countless hours to make sure every aspect of my games is polished and perfect. 
+
+Overall, I am confident that my skills, passion, and dedication to game development will allow me to make a valuable contribution to the industry in the years to come. With a focus on innovation and a commitment to excellence, I am excited to continue exploring new avenues for creativity and growth in the field of game development.
 
 * 🌍  I'm based in Turkey
 * ✉️  You can contact me at [goksueldemir@gmail.com](mailto:goksueldemir@gmail.com)
